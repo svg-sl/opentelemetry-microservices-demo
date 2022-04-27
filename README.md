@@ -40,8 +40,8 @@ If you want to test it locally without a kubernetes cluster, you can follow the 
 1. **Clone this repository.**
 
 ```
-git clone https://github.com/julianocosta89/microservices-demo.git
-cd microservices-demo
+git clone https://github.com/julianocosta89/opentelemetry-microservices-demo.git
+cd opentelemetry-microservices-demo
 ```
 
 2. **Build and run the containers.**  
