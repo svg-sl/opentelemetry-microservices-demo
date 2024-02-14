@@ -17,6 +17,7 @@
     "async": "^3.2.3",
     "google-protobuf": "^3.19.4",
     "pino": "^7.8.0",
+    "slnodejs": "^6.1.625",
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
