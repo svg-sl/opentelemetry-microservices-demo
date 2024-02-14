@@ -90,7 +90,7 @@ eb39e7c3ff04   jaegertracing/all-in-one:1.30   "/go/bin/all-in-one-…"   43 sec
 To kill all containers, simply run [hack/kill-containers.sh.](hack/kill-containers.sh)
 
 ```
-./kill-containers.sh
+./hack/kill-containers.sh
 ```
 
 ## Other Deployment Options
